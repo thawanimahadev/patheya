@@ -1,0 +1,5 @@
+body { font-family: sans-serif; background-color: #fff8e7; color: #4a2c2a; margin: 0; padding: 0; }
+header { background-color: #ffcc80; padding: 1rem; text-align: center; }
+nav ul { list-style: none; padding: 0; display: flex; justify-content: center; gap: 1rem; }
+nav a { text-decoration: none; color: #4a2c2a; }
+footer { background: #ffe0b2; text-align: center; padding: 1rem; position: fixed; bottom: 0; width: 100%; }
